@@ -9,3 +9,13 @@
 **Link(s) to work**
 1. [The code](https://github.com/ajabot/rn-sudoku)
 2. [A little preview](https://twitter.com/AurelienJabot/status/1134634389680328704)
+
+### Day 2: June 1, Saturday
+
+**Today's Progress**: Now displaying the whole grid of the sudoku app, and improved style. Also solved all levels of Flexbox Froggy game
+
+**Thoughts** Although there will be some refactoring/optimizations, I'm really happy with what the app is starting to look like.
+
+**Link(s) to work**
+1. [The code](https://github.com/ajabot/rn-sudoku)
+2. [A little preview](https://twitter.com/AurelienJabot/status/1134944253614940161)
