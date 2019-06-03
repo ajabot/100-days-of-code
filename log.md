@@ -19,3 +19,12 @@
 **Link(s) to work**
 1. [The code](https://github.com/ajabot/rn-sudoku)
 2. [A little preview](https://twitter.com/AurelienJabot/status/1134944253614940161)
+
+### Day 3: June 2, Sunday
+
+**Today's Progress**: Changed the component structure to now have Grid > Block > Tile
+
+**Thoughts** More side effects than expected, especially some weird behavior with the grid state. Also struggled with passing callbacks to grandchildren components. I think I found the solution to my problems though
+
+**Link(s) to work**
+1. [The code](https://github.com/ajabot/rn-sudoku)
