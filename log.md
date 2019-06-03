@@ -28,3 +28,13 @@
 
 **Link(s) to work**
 1. [The code](https://github.com/ajabot/rn-sudoku)
+
+### Day 4: June 3, Monday
+
+**Today's Progress**: Fixed the issues with the new component architecture, and also work on the control panel that will be used to input numbers.
+
+**Thoughts** Now that it looks not too bad, I can work on the game logic, and will probably use redux to help with action / data management
+
+**Link(s) to work**
+1. [The code](https://github.com/ajabot/rn-sudoku)
+2. [A little preview](https://twitter.com/AurelienJabot/status/1135588278550302721)
