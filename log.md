@@ -38,3 +38,12 @@
 **Link(s) to work**
 1. [The code](https://github.com/ajabot/rn-sudoku)
 2. [A little preview](https://twitter.com/AurelienJabot/status/1135588278550302721)
+
+### Day 5: June 4, Tuesday
+
+**Today's Progress**: Started to dive into Redux, checked the doc and started to implement it within the sudoku app
+
+**Thoughts** Not as productive as I wanted code wise, but I'm getting the hang of how redux works
+
+**Link(s) to work**
+1. [The code](https://github.com/ajabot/rn-sudoku)
