@@ -47,3 +47,12 @@
 
 **Link(s) to work**
 1. [The code](https://github.com/ajabot/rn-sudoku)
+
+### Day 6: June 5, Wednesday
+
+**Today's Progress**: Continued implementing Redux into the sudoku app, and tried to fix the erros that came along
+
+**Thoughts** Really struggling to fix a specific error that seem to come from Expo
+
+**Link(s) to work**
+1. [The code](https://github.com/ajabot/rn-sudoku)
