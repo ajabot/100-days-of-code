@@ -56,3 +56,12 @@
 
 **Link(s) to work**
 1. [The code](https://github.com/ajabot/rn-sudoku)
+
+### Day 7: June 6, Thursday
+
+**Today's Progress**: Try to fixed the conflict between Expo and Redux, ended up removing expo to move to react-native-cli
+
+**Thoughts** Having issue with react-native-cli build but I should be able to fix it tomorrow
+
+**Link(s) to work**
+1. [The code](https://github.com/ajabot/rn-sudoku)
