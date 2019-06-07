@@ -65,3 +65,12 @@
 
 **Link(s) to work**
 1. [The code](https://github.com/ajabot/rn-sudoku)
+
+### Day 8: June 7, Friday
+
+**Today's Progress**: Took a break from the sudoku app to start workin on a technical assessment for a job interview
+
+**Thoughts** Developed a quick prototype, now making it look good
+
+**Link(s) to work**
+1. No code to show for now, as there is sensitive information in the code for now
