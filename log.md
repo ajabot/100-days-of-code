@@ -74,3 +74,12 @@
 
 **Link(s) to work**
 1. No code to show for now, as there is sensitive information in the code for now
+
+### Day 9: June 9, Sunday
+
+**Today's Progress**: Worked on improving the architecture of the solution for the technical assessment for the job interview.
+
+**Thoughts** Very busy week end, coulnd't work at least one hour on the challenge both day, so the work of yesterday and today will count for only one day. Didn't write a lot of code per se, but the reflexion on how it should will make the writing easier.
+
+**Link(s) to work**
+1. No code to show for now, as there is sensitive information in the code for now
