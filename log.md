@@ -83,3 +83,12 @@
 
 **Link(s) to work**
 1. No code to show for now, as there is sensitive information in the code for now
+
+### Day 10: June 10, Monday
+
+**Today's Progress**: Worked on the solution for the technical assessment for the job interview.
+
+**Thoughts** Couldn't work on it as much as I wanted but it's almost done now.
+
+**Link(s) to work**
+1. No code to show for now, as there is sensitive information in the code for now
