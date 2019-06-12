@@ -92,3 +92,13 @@
 
 **Link(s) to work**
 1. No code to show for now, as there is sensitive information in the code for now
+
+### Day 11: June 11, Tuesday
+
+**Today's Progress**: Worked on improving the solution for the technical exercice for the job interview. Also tried to fix the builds issues I had with the sudoku reatc native app
+
+**Thoughts** Decided to change something in the architecture of the technical exercice, so it's gonna take a little bit longer. Regarding the app build, I could fix the app but now I'm having a hard time lauching the app in the android / ios emulators.
+
+**Link(s) to work**
+1. No code to show for now for the exercise, as there is sensitive information in the code for now
+2. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
