@@ -102,3 +102,12 @@
 **Link(s) to work**
 1. No code to show for now for the exercise, as there is sensitive information in the code for now
 2. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 12: June 12, Wednesday
+
+**Today's Progress**: Finished the technical exercice for the job interview.
+
+**Thoughts** I'll check the code one last time tomorrow before sending it to the company.
+
+**Link(s) to work**
+1. No code to show for now for the exercise, as there is sensitive information in the code for now
