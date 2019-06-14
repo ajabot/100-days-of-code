@@ -111,3 +111,13 @@
 
 **Link(s) to work**
 1. No code to show for now for the exercise, as there is sensitive information in the code for now
+
+### Day 13: June 13, Thursday
+
+**Today's Progress**: Touch ups and submission of the technical exercice for the job interview. Also went back to the Sudoku app, still having errors but progressing 
+
+**Thoughts** I think I should be back on a working version of the app tomorrow
+
+**Link(s) to work**
+1. [The Excercie](https://github.com/ajabot/tc-data-importer)
+2. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
