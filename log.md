@@ -121,3 +121,13 @@
 **Link(s) to work**
 1. [The Excercie](https://github.com/ajabot/tc-data-importer)
 2. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 14: June 14, Friday
+
+**Today's Progress**: Fixed the errors of the Sudoku app, so now Redux is implemented and thanks to the ios/android builds, I can use devices emulators now.
+
+**Thoughts** I'm really happy it's going forward, will start to implement the game rules tomorrow
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+2. [A little preview](https://twitter.com/AurelienJabot/status/1139688166250598401)
