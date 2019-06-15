@@ -131,3 +131,12 @@
 **Link(s) to work**
 1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
 2. [A little preview](https://twitter.com/AurelienJabot/status/1139688166250598401)
+
+### Day 15: June 15, Saturday
+
+**Today's Progress**: Worked on the Sudoku app, had issues with the build again
+
+**Thoughts** Those builds problems are annoying, I need to get information about that
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
