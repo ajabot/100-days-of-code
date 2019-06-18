@@ -158,3 +158,13 @@
 
 **Link(s) to work**
 1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 18: June 18, Tuesday
+
+**Today's Progress**: Fixed the last issues I had with the reducer, so now I can fill the grid empty spaces
+
+**Thoughts** Will be able to work on the game rules tomorrow
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+2. [A little preview](https://twitter.com/AurelienJabot/status/1141127961917173760)
