@@ -140,3 +140,21 @@
 
 **Link(s) to work**
 1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 16: June 16, Sunday
+
+**Today's Progress**: Worked on the Sudoku app, now having an issue with a component that doesn't connect to redux properly
+
+**Thoughts** Very interesting problem since the element can get the state from redux, but it's not passed as props as it should
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 17: June 17, Monday
+
+**Today's Progress**: Fixed the issue with the component and redux, now having some issue with the reducer
+
+**Thoughts** Even though I have an issue in the reducer, I feel like I'm going forward again
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
