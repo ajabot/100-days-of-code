@@ -168,3 +168,21 @@
 **Link(s) to work**
 1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
 2. [A little preview](https://twitter.com/AurelienJabot/status/1141127961917173760)
+
+### Day 19: June 19, Wednesday
+
+**Today's Progress**: Started to work on the conflicts management on the Sudoku app
+
+**Thoughts** Spent more time thinking about the solution than coding
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 20: June 20, Thursday
+
+**Today's Progress**: Working on fixing a bug discovered when implementing the conflicts management in the Sudoku app
+
+**Thoughts** Still buggy but I should finish the fix tomorrow
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
