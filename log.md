@@ -186,3 +186,30 @@
 
 **Link(s) to work**
 1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 21: June 21, Friday
+
+**Today's Progress**: Fixed the bug and started to work on the conflict management in the sudoku app
+
+**Thoughts** Need to change the component structure to better implement the conflicts management
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 22: June 22, Saturday
+
+**Today's Progress**: Fixed the feedback I had for the technical excercise
+
+**Thoughts** Exercise should be fully completed now 
+
+**Link(s) to work**
+1. [The exercise code](https://github.com/ajabot/tc-data-importer)
+
+### Day 23: June 23, Sunday
+
+**Today's Progress**: Back on the sudoku app, now getting errors after upgrading react-native to be able to use hooks
+
+**Thoughts** everything I tried so far doesn't fix it, I hope I won't have to downgrade the packages
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
