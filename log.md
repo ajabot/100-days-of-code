@@ -213,3 +213,12 @@
 
 **Link(s) to work**
 1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 24: July 1, Monday
+
+**Today's Progress**: Was able to upgrade react so I can use hooks, and change the Tile component to use useMemo hook
+
+**Thoughts** now that all the package errors are fixed and hook implemented, I can finish conflicts management implementation
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
