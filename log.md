@@ -222,3 +222,21 @@
 
 **Link(s) to work**
 1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 25: July 3, Wednesday
+
+**Today's Progress**: Implemented first version of conflicts management in the react native sudoku app
+
+**Thoughts** There is some bug I need to fix
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 25: July 4, Thursday
+
+**Today's Progress**: Worked on fixing the conflicts management.
+
+**Thoughts** Some little fixes are still needed
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
