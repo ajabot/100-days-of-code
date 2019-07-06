@@ -240,3 +240,22 @@
 
 **Link(s) to work**
 1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 26: July 5, Friday
+
+**Today's Progress**: Not a lot of code per se, but lots of training on React Native via a udemy course
+
+**Thoughts** I'm happy to take the react course on the side
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 27: July 6, Saturday
+
+**Today's Progress**: Fixed all the problems I had with the conflict management on the Sudoku app, also implemented the game completion modal, which doesn't work properly though
+
+**Thoughts** The modal is a bit more complicated than expected, but should be fixed tomorrow
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+2. [A little preview](https://twitter.com/AurelienJabot/status/1147626483030142976)
