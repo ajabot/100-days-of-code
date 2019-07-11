@@ -259,3 +259,40 @@
 **Link(s) to work**
 1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
 2. [A little preview](https://twitter.com/AurelienJabot/status/1147626483030142976)
+
+### Day 28: July 7, Sunday
+
+**Today's Progress**: Took some time to styled the modal, continued the react native udemy course
+
+**Thoughts** Still some issue with the completion detection, should be fixed tomorrow
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 29: July 8, Monday
+
+**Today's Progress**: Finished fixed the modal, so now the game logics work
+
+**Thoughts** I'm happy to have finished the first working version, I'll work on improvements later
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+2. [A little preview](https://twitter.com/AurelienJabot/status/1147626483030142976)
+
+### Day 30: July 9, Tuesday
+
+**Today's Progress**: Worked on FCC tribute page and React native udemy course
+
+**Thoughts** The tribute page skeleton was easy, but styling reminded me that I really struggle when it comes to create my own design
+
+**Link(s) to work**
+1. [Tribute page](https://codepen.io/ajabot/pen/GbPNxW)
+
+### Day 31: July 10, Wednesday
+
+**Today's Progress**: React native udemy course, and start to work on a webradio streaming software using electron and howler
+
+**Thoughts** Was able to get a radio to stream, but was much harder than expected
+
+**Link(s) to work**
+1. [Stream software code](https://github.com/ajabot/streamint)
