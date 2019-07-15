@@ -296,3 +296,39 @@
 
 **Link(s) to work**
 1. [Stream software code](https://github.com/ajabot/streamint)
+
+### Day 32: July 11, Thursday
+
+**Today's Progress**: React native udemy course, now trying to apply what I learned in the Sudoku app
+
+**Thoughts** Can't get why-did-you-update to work
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 33: July 12, Friday
+
+**Today's Progress**: React native udemy course, a little bit of electron
+
+**Thoughts** Not a lot time to code today
+
+**Link(s) to work**
+1. [The Sudoku app code](https://github.com/ajabot/rn-sudoku)
+
+### Day 34: July 13, Saturday
+
+**Today's Progress**: React native udemy course, Free Code Camp survey form
+
+**Thoughts** Again, thinking of a design out of my head is really difficult
+
+**Link(s) to work**
+1. [Survey Form](https://codepen.io/ajabot/pen/OeGaNR)
+
+### Day 35: July 14, Sunday
+
+**Today's Progress**: React native udemy course, Free Code Camp survey form
+
+**Thoughts** Really need to take the time to refactor the Sudoku app with what I learned
+
+**Link(s) to work**
+1. [Survey Form](https://codepen.io/ajabot/pen/OeGaNR)
