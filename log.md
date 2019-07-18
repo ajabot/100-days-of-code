@@ -332,3 +332,12 @@
 
 **Link(s) to work**
 1. [Survey Form](https://codepen.io/ajabot/pen/OeGaNR)
+
+### Day 36: July 17, Wednesday
+
+**Today's Progress**: Worked on FCC landing's page
+
+**Thoughts** Still not able to come with my own design, but it's easier to reproduce the style of an existing page just by looking at it.
+
+**Link(s) to work**
+1. [Landing Page](https://codepen.io/ajabot/pen/pMzVed)
