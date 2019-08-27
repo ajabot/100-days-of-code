@@ -341,3 +341,12 @@
 
 **Link(s) to work**
 1. [Landing Page](https://codepen.io/ajabot/pen/pMzVed)
+
+### Day 37: August 27, Wednesday
+
+**Today's Progress**: Tried to add navigation to the sudoku app
+
+**Thoughts** Can't get it to work so I will try to install the react-native-navigation module again
+
+**Link(s) to work**
+1. [Sudoku app code](https://github.com/ajabot/rn-sudoku)
